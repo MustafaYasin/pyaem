@@ -6,5 +6,6 @@ setup(name='PyAEM',
       author='Greg Ward',
       author_email='gward@python.net',
       url='https://www.python.org/sigs/distutils-sig/',
-      packages=['PyAEM'],
+      #packages=['PyAEM'],
+      packages=setuptools.find_packages(where=".")
      )
