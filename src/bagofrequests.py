@@ -3,6 +3,7 @@ from .handlers import unexpected as handle_unexpected
 import pycurl
 import urllib
 
+
 def request(method, url, params, handlers, **kwargs):
     """Sends HTTP request to a specified URL.
     Parameters will be appended to URL automatically on HTTP get method.

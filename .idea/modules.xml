@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PyAEM.iml" filepath="$PROJECT_DIR$/.idea/PyAEM.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../aemaacs-content-migration-develop/.idea/aemaacs-content-migration-develop.iml" filepath="$PROJECT_DIR$/../aemaacs-content-migration-develop/.idea/aemaacs-content-migration-develop.iml" />
     </modules>
   </component>
 </project>

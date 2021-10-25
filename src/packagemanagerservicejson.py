@@ -24,7 +24,7 @@ class PackageManagerServiceJson(object):
                 result.failure(message)
             print(response, type(response))
             print(this_kwargs, type(this_kwargs))
-            #print(dict(response | this_kwargs))
+            # print(dict(response | this_kwargs))
             return result
 
         self.url = url
